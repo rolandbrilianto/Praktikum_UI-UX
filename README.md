@@ -1,8 +1,8 @@
 # Praktikum_UI-UX
 berisi praktikum ui ux serta resume dari materi ui/ux
 
-#Resume UI UX
-#UX
+# Resume UI UX
+# UX
 adalah apapun yang pengguna rasakan ketika menggunakan aplikasi kita
 UX terdiri dari 6 bagian
 1. Business Logic
@@ -27,7 +27,7 @@ memiliki beberapa tahap yaitu
 3. wireflow yaitu kombinasi wireframe dan flowchart.
 
 
-#UI
+# UI
 adalah visual yang user gunakan ketika berinteraksi dengan aplikasi
 
 memiliki 4 pillar :
@@ -36,7 +36,7 @@ memiliki 4 pillar :
 3. Good Typography
 4. Informative Feedback
 
-#PROTOTYPE
+# PROTOTYPE
 tujuannya adalah agar mendapat feedback dari user maupun stakeholder sehingga bisa memperbaiki dan memberi masukan terkait aplikasi sehingga
 terciptanya interaksi yang baik agar memudahkan pengembangan project.
 
